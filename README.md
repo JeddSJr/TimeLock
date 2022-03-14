@@ -1,2 +1,2 @@
 # TimeLock
- A simple java program that makes files unusable for a given time. 
+ Source code of a simple java program that makes files unusable for a given time. 
